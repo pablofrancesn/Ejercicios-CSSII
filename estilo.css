@@ -1,0 +1,12 @@
+html {
+  
+}
+
+a[href*=chocolate], a[href*=Chocolate] {
+  color: red;
+}
+
+a[href^="http:"]:hover {
+  font-size: 2em;
+}
+
